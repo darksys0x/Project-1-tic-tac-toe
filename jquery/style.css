@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+    background-color: bisque
+}
+
+span{
+    color :red;
+
+}
+#informatiom-game{
+    text-align: center;
+    color: chocolate
+}
+
+#noumbersOfscouers{
+    width: 500px;
+    margin: 0 auto;
+
+}
+
+.squer{
+
+    width: 100px;
+    height: 90px;
+    border: 2px solid rgb(153, 51, 59);
+    float: left;
+    padding: 30px;
+    font-size: 50px;
+    text-align: center;
+    background-color: black;
+    margin-top: 20px;
+}
+.eaxX::after{ 
+
+    content: "X";
+    color: red;
+    width: 30px;
+
+
+}
+
+.os::after{ 
+
+    content: "O";
+    color: white;
+    width: 30px;
+}
+/* body{background-color: black;
+    background: url("https://static.arabic.cnn.com/sites/default/files/styles/og_image/public/2015/07/27/images/CK6R8bKWcAE5KMx.jpg?itok=H-J88Kn6");
+
+
+} */
