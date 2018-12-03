@@ -24,14 +24,13 @@ The following example game is won by the first player, X:
 
 
 ## Resourses :
-- youtub 
+- youtube
 - slack
-- Uedemy coueses for explation 
-- stack flow 
+- Udemy courses for explanation
+- stack flow
 - google -mead ..
-- some frinds 
-- Ghadeer (tetcher) she full hellp me 
-
+- some friends
+- Ghadeer :she full hellp me
 
 
 
