@@ -222,7 +222,7 @@ function displayRe(ma){
 
 
 
-// var counterPlayer =0; //this from help me abdraboua 
+// var counterPlayer =0;//AB..
 // function winner (){
 
 
